@@ -63,7 +63,7 @@ $ git clone https://github.com/oDevBR/habits-web.git && cd habits-web
 $ npm install
 
 # Start the client
-$ npx expo start
+$ npm run dev
 ```
 
 ## 🤔 How to contribute
